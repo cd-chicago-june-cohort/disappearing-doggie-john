@@ -1,0 +1,29 @@
+* {
+    margin: 10px;
+}
+
+#container {
+    width: 970px;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    display: inline-block;
+    padding: 5px;
+}
+
+#restore {
+    background: forestgreen;
+    color: white;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    width: 10%;
+    border-radius: 5px;
+    
+}
+
+.hidden {
+    display: none;
+}
